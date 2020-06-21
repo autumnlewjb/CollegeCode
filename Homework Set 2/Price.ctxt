@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Price
+comment1.params=newPrice
+comment1.target=double\ total(double)
+comment2.params=numberItems
+comment2.target=double\ average(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
