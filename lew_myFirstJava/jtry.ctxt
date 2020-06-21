@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=jtry
-comment1.params=yourName
-comment1.target=void\ printOutName(java.lang.String)
-comment2.params=args
-comment2.target=void\ main(java.lang.String[])
-numComments=3
