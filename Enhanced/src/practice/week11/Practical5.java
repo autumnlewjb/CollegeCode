@@ -1,7 +1,6 @@
 package practice.week11;
 
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class Practical5{
     static Scanner input = new Scanner(System.in);
