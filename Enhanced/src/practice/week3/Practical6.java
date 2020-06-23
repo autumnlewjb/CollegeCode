@@ -2,7 +2,7 @@ package practice.week3;
 
 import java.util.Scanner;
 
-class a {
+class Practical6a {
     static Scanner input = new Scanner(System.in);
     public static void main(String[] args) {
         int num1, num2, num3;
@@ -15,7 +15,7 @@ class a {
         System.out.println("The result is: " + (num1 + num2 / num3 * num1 - num2 % num3));
     }
 }
-class b {
+class Practical6b {
     static Scanner input = new Scanner(System.in);
     public static void main(String[] args) {
         System.out.print("Enter name: ");

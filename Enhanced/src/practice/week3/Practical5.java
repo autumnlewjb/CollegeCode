@@ -11,14 +11,14 @@ import java.text.DecimalFormat;
  *
  * @author Autumn
  */
-class a{
+class Practical5a{
     public static void main(String[] args){
         System.out.println((55+9)%9);
         System.out.println(5+15/3*5-15%3);
     }
 }
 
-class b{
+class Practical5b{
     public static void main(String[] args){
         String name = "Haira";
         int hoursWorked = 37;
