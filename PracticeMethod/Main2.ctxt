@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Main2
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment2.params=numA\ numB
-comment2.target=void\ swap(int,\ int)
-numComments=3
