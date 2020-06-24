@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Main2
-comment1.params=dropshipName\ dropshipId\ salesOfTheMonth
-comment1.target=Main2(java.lang.String,\ java.lang.String,\ double)
-comment2.params=
-comment2.target=void\ displayTable()
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4

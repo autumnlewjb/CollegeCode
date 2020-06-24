@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=PTest4
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment2.params=a\ x\ y\ z
-comment2.target=double\ priceBooking(int,\ int,\ int,\ int)
-comment3.params=x
-comment3.target=void\ priceDiscount(double)
-numComments=4
